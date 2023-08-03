@@ -3,7 +3,9 @@ Default page for organization
 
 # storybook
 
-This repo can serve as a source for mockServiceWorker.js for storybooks in organization github pages
+This repo can serve as a source for mockServiceWorker.js for storybooks in organization github pages, i.e.
+
+* <https://ucsb-cs156-m23.github.io/mockServiceWorker.js>
 
 # Instructions
 
